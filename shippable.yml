@@ -1,6 +1,6 @@
 language: go
 
-node_js:
+go:
   - "1.2"
 
 install: go version
