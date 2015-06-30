@@ -1,0 +1,8 @@
+language: go
+
+node_js:
+  - "1.2"
+
+install: go version
+
+script: go run show_env.go

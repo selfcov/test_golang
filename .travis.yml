@@ -1,0 +1,4 @@
+language: go
+
+script:
+  - go run show_env.go

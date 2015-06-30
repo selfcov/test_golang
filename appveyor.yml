@@ -1,0 +1,5 @@
+build_script:
+  - go version
+
+test_script:
+  - go run show_env.go
